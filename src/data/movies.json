@@ -28,5 +28,95 @@
     "title": "Forrest Gump",
     "year": 1994,
     "genre": ["Dramat", "Romans"]
+  },
+  {
+    "id": 6,
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": ["Sci-Fi", "Akcja"]
+  },
+  {
+    "id": 7,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": ["Kryminał", "Dramat"]
+  },
+  {
+    "id": 8,
+    "title": "The Godfather",
+    "year": 1972,
+    "genre": ["Kryminał", "Dramat"]
+  },
+  {
+    "id": 9,
+    "title": "Titanic",
+    "year": 1997,
+    "genre": ["Romans", "Dramat"]
+  },
+  {
+    "id": 10,
+    "title": "Jurassic Park",
+    "year": 1993,
+    "genre": ["Przygodowy", "Sci-Fi"]
+  },
+  {
+    "id": 11,
+    "title": "Whiplash",
+    "year": 2014,
+    "genre": ["Dramat", "Muzyczny"]
+  },
+  {
+    "id": 12,
+    "title": "Parasite",
+    "year": 2019,
+    "genre": ["Thriller", "Dramat"]
+  },
+  {
+    "id": 13,
+    "title": "Fight Club",
+    "year": 1999,
+    "genre": ["Dramat", "Thriller"]
+  },
+  {
+    "id": 14,
+    "title": "The Prestige",
+    "year": 2006,
+    "genre": ["Dramat", "Thriller"]
+  },
+  {
+    "id": 15,
+    "title": "Django Unchained",
+    "year": 2012,
+    "genre": ["Western", "Akcja"]
+  },
+  {
+    "id": 16,
+    "title": "The Green Mile",
+    "year": 1999,
+    "genre": ["Dramat", "Fantasy"]
+  },
+  {
+    "id": 17,
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "genre": ["Wojenny", "Dramat"]
+  },
+  {
+    "id": 18,
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "genre": ["Akcja", "Sci-Fi"]
+  },
+  {
+    "id": 19,
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "genre": ["Biograficzny", "Dramat"]
+  },
+  {
+    "id": 20,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "genre": ["Akcja", "Sci-Fi"]
   }
 ]
