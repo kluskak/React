@@ -159,7 +159,7 @@ function App() {
 
       <section className="movies">
         {filteredMovies.length === 0 ? (
-          <p className="empty">Lista filmów jest pusta.</p>
+          <p className="empty">Lista filmów jest pusta</p>
         ) : (
           filteredMovies.map((movie) => (
             <MovieCard
